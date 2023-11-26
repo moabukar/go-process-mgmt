@@ -1,4 +1,4 @@
 github.com/ahmetb/pstree v0.0.0-20190815175305-245b319425b4 h1:rt6ye4Bx0gM2lrsav+MokSnpkvjxPRM/+evMhMDbPJA=
 github.com/ahmetb/pstree v0.0.0-20190815175305-245b319425b4/go.mod h1:pWF4KgjwKiPf3g8yn5iGVJ5Fbc6AhyJtRedMcYTkxPc=
-github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
-github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
+github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

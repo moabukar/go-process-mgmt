@@ -1,0 +1,6 @@
+# github.com/ahmetb/pstree v0.0.0-20190815175305-245b319425b4
+## explicit
+github.com/ahmetb/pstree
+# github.com/google/uuid v1.4.0
+## explicit
+github.com/google/uuid
